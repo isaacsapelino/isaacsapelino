@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Isaac Sapelino from the Philippines<br><br>- 💼 I'm currently working as a Client Care Representative.<br>- 📚 I'm currently re-learning Flutter.<br>- ⚡ In my free time I study Spanish and learn to code.</p>
+<p align="left">I'm Isaac Sapelino from the Philippines<br><br>- 💼 I'm currently working as a Client Care Representative.<br>- 📚 I'm currently re-learning Flutter.<br>- ⚡ In my free time, I study Spanish.</p>
 
 ###
 
